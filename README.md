@@ -1,5 +1,5 @@
 ## FlowFieldDemo
-Naive implemetation of Goal Based Vector Field Path Findig Algoritm, aka Flow Field algoritm
+Naive implementation of Goal Based Vector Field Path Findig Algoritm, aka Flow Field algoritm
 
 Features:
 1. Grid base map partrition
